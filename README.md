@@ -12,5 +12,5 @@ A simple analysis program to computer basic statistics for a list of DNA strings
 - Ask the user if they want to process another list.
 
 # To Run (from Mac command line):
-- g++ *.cpp
-- ./a.out
+g++ *.cpp
+./a.out
